@@ -2,7 +2,7 @@ spring:
   application:
     name: eureka-grade
 server:
-  port: 8081
+  port: 8086
 eureka:
   client:
     register-with-eureka: true
